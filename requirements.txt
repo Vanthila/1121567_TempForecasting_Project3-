@@ -1,1 +1,15 @@
-
+os
+pandas
+cv2
+numpy
+PIL
+tifffile
+skimage.transform
+matplotlib.pyplot
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.metrics
+tensorflow
+tensorflow.keras.models
+tensorflow.keras.layers
+spektral.layers
